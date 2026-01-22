@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I´m Astrid 👋
+
+I´m a data engineering student graduating in June 2026, with a focus on machine learning and artificial intelligence. 
 
 <!--
 **h676646/h676646** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
